@@ -59,6 +59,6 @@ pip install -r requirements.txt
 
 ```
 Or manually -
-bash
+```bash
 pip install stim pymatching numpy
 pip install reportlab
