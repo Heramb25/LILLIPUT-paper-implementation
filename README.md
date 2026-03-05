@@ -63,5 +63,12 @@ Or manually -
 pip install stim pymatching numpy
 pip install reportlab
 ```
+---
+## References
+- LILLIPUT: *A Lightweight Low-Latency Lookup-Table Decoder for Near-Term Quantum Error Correction* (paper).
+- Stim documentation (Craig Gidney): detector error models, detector sampler, surface code circuit generators.
+- PyMatching documentation: MWPM decoding from detector error models.
+
+---
 #### Note
 AI-assisted tooling was used for code drafting/cleanup; final implementation and verification were done by the author.
