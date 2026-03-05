@@ -63,5 +63,5 @@ Or manually -
 pip install stim pymatching numpy
 pip install reportlab
 ```
-## Note
+### Note
 AI-assisted tooling was used for code drafting/cleanup; final implementation and verification were done by the author.
