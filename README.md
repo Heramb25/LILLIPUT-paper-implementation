@@ -27,7 +27,7 @@ This repo contains Jupyter notebooks to prototype and evaluate a **LILLIPUT-styl
 ### 3) `LILLIPUT_round_weight_table.ipynb` (Comparison table generator)
 - Generates a comparison table:
   - **Rows = QEC rounds**
-  - **Columns = `max_weights`**
+  - **Columns = max_weights**
 - Requires `reportlab`.
 
 ### 4) `gen_lut.ipynb` (Vivado LUT + test vectors generator)
